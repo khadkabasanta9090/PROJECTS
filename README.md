@@ -17,7 +17,7 @@ in the quiet dark.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="80%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="20%">
 
 <br><br>
 
