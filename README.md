@@ -1,7 +1,7 @@
 <div align="center">
 
-# ✦ J A C O N  
-### coding • unity • blender • robotics
+# ✦ WELCOME TO MY GIT ✦
+### Coding • Unity • Blender • Robotics
 
 <br>
 
