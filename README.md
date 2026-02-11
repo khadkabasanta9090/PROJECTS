@@ -15,10 +15,10 @@
 <br><br>
 
 ## ✦ Focus areas
-**unity development** — gameplay logic, c# scripting, prototyping  
-**blender design** — modeling, animation, visual style exploration  
-**robotics** — dasai robots, embedded systems, motion logic  
-**coding** — c#, python, microcontroller programming  
+**Unity development** — gameplay logic, c# scripting, prototyping  
+**Blender design** — modeling, animation, visual style exploration  
+**Robotics** — dasai robots, embedded systems, motion logic  
+**Coding** — c#, python, microcontroller programming  
 
 <br>
 
@@ -29,10 +29,10 @@
 <br>
 
 ## ✦ Current learning path
-- unity scripting & game mechanics  
-- blender modeling + stylized design  
-- robotics motion control & embedded logic  
-- building clean, scalable code foundations  
+- Unity scripting & game mechanics  
+- Blender modeling + stylized design  
+- Robotics motion control & embedded logic  
+- Building clean, scalable code foundations  
 
 <br>
 
