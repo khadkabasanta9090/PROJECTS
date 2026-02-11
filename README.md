@@ -1,55 +1,72 @@
 <div align="center">
 
+<img src="YOUR_TOP_BANNER" width="100%" style="border-radius:6px;" />
+
 # ✦ WELCOME TO MY GIT ✦
-### Coding • Unity • Blender • Robotics
+### coding • unity • blender • robotics  
+### dark ambient • asian inspired
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=1" width="70%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=1" width="75%">
 
 <br>
 
-### Learning to build worlds,  
-### Design characters, and engineer intelligent systems
+### wandering between code and creation,  
+### shaping worlds in shadow and neon.
 
 <br><br>
 
-## ✦ Focus areas
-**Unity development** — gameplay logic, c# scripting, prototyping  
-**Blender design** — modeling, animation, visual style exploration  
-**Robotics** — dasai robots, embedded systems, motion logic  
-**Coding** — c#, python, microcontroller programming  
+## ✦ disciplines of the craft
+**unity development** — c# scripting, gameplay systems, prototypes  
+**blender design** — stylized modeling, cinematic renders, animation  
+**robotics** — dasai robots, embedded logic, motion engineering  
+**coding** — python, c#, microcontrollers, system flows  
 
 <br>
 
-## ✦ Tools & Tech
+<img src="YOUR_IMAGE_1" width="65%" style="border-radius:10px; opacity:0.9;">
+
+<br>
+
+## ✦ tools of the wandering engineer
 `Unity` · `C#` · `Blender` · `Python` · `ESP32`  
 `VS Code` · `Git` · `Robotics` · `3D Modeling`
 
 <br>
 
-## ✦ Current learning path
- Unity scripting & game mechanics  
- Blender modeling + stylized design  
- Robotics motion control & embedded logic  
- Building clean, scalable code foundations  
+<img src="YOUR_IMAGE_2" width="65%" style="border-radius:10px; opacity:0.9;">
 
 <br>
 
-## ✦ Projects
-**Unity mini‑games** — prototypes, movement systems, interaction logic  
-**Blender art** — characters, props, animations  
-**Robotics builds** — dasai robot experiments, esp32 control  
-**Coding practice** — algorithms, scripting, automation  
-**3 lane traffic-light system** - coding, schematic, parts planning
-**PCB Board & Schematics**- Schematic, board design, choose components
+## ✦ current journey
+- mastering unity physics & movement  
+- sculpting characters + props in blender  
+- engineering dasai robot behaviors  
+- refining clean, scalable code foundations  
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=1" width="70%">
+<img src="YOUR_IMAGE_3" width="65%" style="border-radius:10px; opacity:0.9;">
+
+<br>
+
+## ✦ works from the shadows
+**unity mini‑games** — movement, interaction, prototypes  
+**blender art** — characters, props, ambient scenes  
+**robotics builds** — dasai experiments, esp32 control  
+**coding practice** — algorithms, automation, logic  
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=1" width="75%">
 
 <br><br>
 
-### ✦ THANK YOU FOR CHECKING IN !! ✦
+### ✦ in the quiet dark, creation awakens.
+
+<br>
+
+<img src="YOUR_FOOTER_IMAGE" width="100%" style="border-radius:6px;" />
 
 </div>
