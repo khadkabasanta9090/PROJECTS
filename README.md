@@ -1,72 +1,107 @@
 <div align="center">
 
-<img src="YOUR_TOP_BANNER" width="100%" style="border-radius:6px;" />
-
-# ✦ WELCOME TO MY GIT ✦
-### coding • unity • blender • robotics  
-### dark ambient • asian inspired
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=260&section=header&text=影の創造&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=1" width="75%">
+# ✦ WELCOME TO THE SHADOW REPOSITORY ✦
+### 静寂の工匠 — Architect of Silent Systems  
+coding • unity • blender • robotics  
+dark ambient • eastern minimalism  
 
 <br>
 
-### wandering between code and creation,  
-### shaping worlds in shadow and neon.
+wandering between logic and imagination,  
+forging motion, form, and mechanical spirit  
+in the quiet dark.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="80%">
 
 <br><br>
 
 ## ✦ disciplines of the craft
-**unity development** — c# scripting, gameplay systems, prototypes  
-**blender design** — stylized modeling, cinematic renders, animation  
-**robotics** — dasai robots, embedded logic, motion engineering  
-**coding** — python, c#, microcontrollers, system flows  
 
-<br>
+**unity development**  
+c# scripting • gameplay systems • physics • prototypes  
 
-<img src="YOUR_IMAGE_1" width="65%" style="border-radius:10px; opacity:0.9;">
+**blender design**  
+stylized modeling • cinematic renders • animation  
 
-<br>
+**robotics engineering**  
+dasai robots • embedded systems • motion control  
 
-## ✦ tools of the wandering engineer
-`Unity` · `C#` · `Blender` · `Python` · `ESP32`  
-`VS Code` · `Git` · `Robotics` · `3D Modeling`
-
-<br>
-
-<img src="YOUR_IMAGE_2" width="65%" style="border-radius:10px; opacity:0.9;">
-
-<br>
-
-## ✦ current journey
-- mastering unity physics & movement  
-- sculpting characters + props in blender  
-- engineering dasai robot behaviors  
-- refining clean, scalable code foundations  
-
-<br>
-
-<img src="YOUR_IMAGE_3" width="65%" style="border-radius:10px; opacity:0.9;">
-
-<br>
-
-## ✦ works from the shadows
-**unity mini‑games** — movement, interaction, prototypes  
-**blender art** — characters, props, ambient scenes  
-**robotics builds** — dasai experiments, esp32 control  
-**coding practice** — algorithms, automation, logic  
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=1" width="75%">
+**coding foundations**  
+python • c# • microcontrollers • system architecture  
 
 <br><br>
 
-### ✦ in the quiet dark, creation awakens.
+<img src="https://images.unsplash.com/photo-1505064750043-5b33e8d91f2f?q=80&w=1200&auto=format&fit=crop" width="70%" />
+
+<br><br>
+
+## ✦ tools of the wandering engineer
+
+`Unity` · `C#` · `Blender` · `Python` · `ESP32`  
+`VS Code` · `Git` · `Robotics` · `3D Modeling`
+
+<br><br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khadkabasanta9090&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=cccccc&hide_border=true"/>
+</p>
 
 <br>
 
-<img src="YOUR_FOOTER_IMAGE" width="100%" style="border-radius:6px;" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadkabasanta9090&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&hide_border=true"/>
+</p>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="80%">
+
+<br><br>
+
+## ✦ current journey
+
+- mastering unity physics & advanced movement systems  
+- sculpting characters and environmental props in blender  
+- engineering intelligent behaviors for dasai robotics  
+- refining clean, scalable, and elegant code foundations  
+
+<br><br>
+
+<img src="https://images.unsplash.com/photo-1496309732348-3627f3f040ee?q=80&w=1200&auto=format&fit=crop" width="70%" />
+
+<br><br>
+
+## ✦ works from the shadows
+
+**unity mini-games**  
+movement systems • interaction mechanics • experiments  
+
+**blender art**  
+characters • props • ambient cinematic scenes  
+
+**robotics builds**  
+esp32 control • servo orchestration • embedded logic  
+
+**coding practice**  
+algorithms • automation • system design  
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadkabasanta9090&theme=github-dark&bg_color=0d0d0d&color=ffffff&line=444444&point=888888&area=true&hide_border=true"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:000000&height=160&section=footer"/>
+
+<br>
+
+### ✦ 在静暗之中，万物成形。  
+### ✦ In the silent dark, creation awakens.
 
 </div>
