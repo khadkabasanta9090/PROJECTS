@@ -37,7 +37,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-<img src="https://images.unsplash.com/photo-1505064750043-5b33e8d91f2f?q=80&w=1200&auto=format&fit=crop" width="70%" />
+<img src="https://raw.githubusercontent.com/khadkabasanta9090/WELCOME-TO-MY-GIT/main/assets/ashrit-ramadurgam-render4edited.jpg" width="70%" style="border-radius:12px; opacity:0.95;" />
 
 <br><br>
 
@@ -73,7 +73,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-<img src="https://images.unsplash.com/photo-1496309732348-3627f3f040ee?q=80&w=1200&auto=format&fit=crop" width="70%" />
+<img src="https://raw.githubusercontent.com/khadkabasanta9090/WELCOME-TO-MY-GIT/main/assets/wp6810303.jpeg" width="70%" style="border-radius:12px; opacity:0.95;" />
 
 <br><br>
 
