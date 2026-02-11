@@ -15,13 +15,13 @@ Wandering between logic and imagination,
 Forging motion, Form, and Mechanical spirit  
 in the quiet dark.
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="20%">
 
 <br><br>
 
-## ✦ Disciplines of the craft
+## ✦ Disciplines of the craft ✦
 
 **Unity development**  
 c# scripting • gameplay systems • physics • prototypes  
@@ -41,7 +41,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-## ✦ Tools of the wandering engineer
+## ✦ Tools of the wandering engineer ✦
 
 `Unity` · `C#` · `Blender` · `Python` · `ESP32`  
 `VS Code` · `Git` · `Robotics` · `3D Modeling`
@@ -64,7 +64,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-## ✦ Current journey
+## ✦ Current journey ✦
 
 - mastering unity physics & advanced movement systems  
 - sculpting characters and environmental props in blender  
@@ -77,7 +77,7 @@ python • c# • microcontrollers • system architecture
 
 <br><br>
 
-## ✦ works from the shadows
+## ✦ Projects ✦
 
 **Unity mini-games**  
 movement systems • interaction mechanics • experiments  
