@@ -16,7 +16,7 @@ in the quiet dark.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2" width="20%">
 <br>
 
-## ✦ Disciplines of the craft ✦
+## ✦ Disciplines Of The Craft ✦
 **Unity development**  
 c# scripting • gameplay systems • physics • prototypes  
 **Blender design**  
@@ -27,7 +27,7 @@ dasai robots • embedded systems • motion control
 python • c# • microcontrollers • system architecture  
 <br><br>
 
-## ✦ Tools of the wandering engineer ✦
+## ✦ Tools of the wandering Engineer ✦
 Unity · C# · Blender · Python · ESP32  
 VS Code · Git · Robotics · 3D Modeling
 <br>
@@ -42,14 +42,14 @@ VS Code · Git · Robotics · 3D Modeling
 <br>
 
 ## ✦ Projects ✦
-**Unity mini-games**  
+**Unity Mini-games**  
 movement systems • interaction mechanics • experiments  
 **Blender art**  
 characters • props • ambient cinematic scenes  
 **Robotics builds**  
 esp32 control • servo orchestration • embedded logic 
 
-**Coding practice**  
+**Coding Practice**  
 algorithms • automation • system design  
 <br><br>
 
